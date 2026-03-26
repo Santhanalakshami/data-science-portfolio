@@ -190,7 +190,6 @@ I am currently looking for opportunities in:
 - Data Analyst
 - Junior Data Scientist
 - Business Analyst
-- SQL / Reporting Analyst
 - Remote Data Roles
 
 I am open to opportunities where I can contribute through **data analysis, problem-solving, and business insight generation**.
