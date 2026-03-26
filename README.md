@@ -173,7 +173,7 @@ Highlights the application of AI and machine learning techniques to real-world s
 
 # Resume
 
-📄 **Resume:** [https://drive.google.com/file/d/1JsXAiFCGRDY9OqyiMH6J2vLsx9TqxFp1/view?usp=drive_link]
+📄 **Resume:** [View Resume](https://drive.google.com/file/d/1JsXAiFCGRDY9OqyiMH6J2vLsx9TqxFp1/view?usp=drive_link)
 
 ---
 
