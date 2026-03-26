@@ -1,8 +1,10 @@
 # Santhanalakshmi | Data Science Portfolio
 
-Hi, I'm **Santhanalakshmi** — a **Data Analyst / Data Scientist** candidate with hands-on project experience in **SQL, Python, Machine Learning, Streamlit, PostgreSQL, and Data Visualization**.
+Hi, I'm **Santhanalakshmi** — a **Data Analyst / Data Science candidate** with hands-on project experience in **SQL, Python, Machine Learning, Streamlit, PostgreSQL, and Data Visualization**.
 
 This portfolio highlights my end-to-end projects in **data cleaning, exploratory data analysis (EDA), SQL analytics, machine learning, predictive modeling, and dashboard development**.
+
+**Core Stack:** SQL | Python | Pandas | PostgreSQL | Streamlit | Scikit-learn | Power BI
 
 ---
 
@@ -35,6 +37,7 @@ My work focuses on:
 
 ### Databases
 - PostgreSQL
+- MySQL
 
 ### Visualization
 - Power BI
@@ -49,13 +52,31 @@ My work focuses on:
 
 ---
 
+## What This Portfolio Demonstrates
+
+This portfolio reflects my practical experience in building end-to-end data projects involving:
+
+- Data cleaning and preprocessing
+- SQL-based analytical querying
+- Exploratory Data Analysis (EDA)
+- Interactive dashboard development
+- Machine learning model building
+- Business-oriented insight generation
+
+These projects demonstrate my ability to work across the full analytics workflow — from raw data to meaningful insights and prediction.
+
+---
+
 # Featured Projects
 
 ## 1) EnforceIQ – Traffic Stop Analytics Dashboard
 **Tools Used:** Python, SQL, PostgreSQL, Streamlit
 
 **Project Overview:**  
-EnforceIQ is a real-time analytics dashboard built to analyze police traffic stop data and uncover trends related to violations, search patterns, stop outcomes, and demographic insights.
+Built an end-to-end analytics dashboard to analyze police traffic stop data and uncover trends related to violations, searches, stop outcomes, and demographic patterns.
+
+**Business Value:**  
+Transforms raw traffic stop data into actionable insights through SQL analytics, dashboarding, and predictive logic.
 
 **Key Highlights:**
 - Cleaned and transformed raw traffic stop data
@@ -72,7 +93,10 @@ EnforceIQ is a real-time analytics dashboard built to analyze police traffic sto
 **Tools Used:** Python, SQL, PostgreSQL, Streamlit / Power BI
 
 **Project Overview:**  
-Performed agricultural data analysis on district-level crop data to identify trends in production, area, and yield across regions.
+Analyzed district-level agricultural data to identify crop production trends, yield variations, and regional performance patterns.
+
+**Business Value:**  
+Demonstrates analytical thinking in transforming large structured datasets into useful reporting and decision-support insights.
 
 **Key Highlights:**
 - Conducted exploratory data analysis
@@ -88,7 +112,10 @@ Performed agricultural data analysis on district-level crop data to identify tre
 **Tools Used:** Python, Pandas, Scikit-learn, Machine Learning
 
 **Project Overview:**  
-Built a machine learning workflow to analyze employee attrition patterns and predict workforce behavior using HR data.
+Built a machine learning workflow to analyze employee attrition patterns and predict workforce-related outcomes using HR data.
+
+**Business Value:**  
+Shows how data can support HR decision-making, workforce planning, and employee retention strategies.
 
 **Key Highlights:**
 - Data preprocessing and cleaning
@@ -104,7 +131,10 @@ Built a machine learning workflow to analyze employee attrition patterns and pre
 **Tools Used:** Python, Machine Learning / AI
 
 **Project Overview:**  
-Saferide-AI is an AI-based project designed around intelligent safety-oriented analysis and prediction.
+Developed an AI-driven project focused on intelligent safety-related analysis and prediction.
+
+**Business Value:**  
+Highlights the application of AI and machine learning techniques to real-world safety and decision-support use cases.
 
 **Key Highlights:**
 - Applied AI/ML logic to a real-world problem
@@ -156,7 +186,11 @@ Saferide-AI is an AI-based project designed around intelligent safety-oriented a
 
 # Career Objective
 
-I am currently looking for opportunities in the Data field with a data driven team.
+I am currently looking for opportunities in:
+- Data Analyst
+- Junior Data Scientist
+- Business Analyst
+- SQL / Reporting Analyst
 - Remote Data Roles
 
-I am open to opportunities where I can contribute through **data analysis, problem-solving, and business insight generation**.# data-science-portfolio
+I am open to opportunities where I can contribute through **data analysis, problem-solving, and business insight generation**.
