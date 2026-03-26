@@ -1,6 +1,6 @@
 # Santhanalakshmi | Data Science Portfolio
 
-Hi, I'm **Santhanalakshmi** — an aspiring **Data Analyst / Data Scientist** with hands-on project experience in **SQL, Python, Machine Learning, Streamlit, PostgreSQL, and Data Visualization**.
+Hi, I'm **Santhanalakshmi** — a **Data Analyst / Data Scientist** candidate with hands-on project experience in **SQL, Python, Machine Learning, Streamlit, PostgreSQL, and Data Visualization**.
 
 This portfolio highlights my end-to-end projects in **data cleaning, exploratory data analysis (EDA), SQL analytics, machine learning, predictive modeling, and dashboard development**.
 
